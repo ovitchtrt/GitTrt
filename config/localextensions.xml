@@ -84,5 +84,6 @@
         <extension name="merchandisestorefront"/>
         <extension name="merchandisecockpits"/>
 
+<!--      test ovitch test  -->
     </extensions>
 </hybrisconfig>
